@@ -5,6 +5,9 @@ p {
 }
 body {
 }
+.main-wrapper nav {
+  background-color: azure;
+}
 form {
   height: 350px;
   display: block;
